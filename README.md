@@ -100,7 +100,7 @@ A modern, real-time cryptocurrency tracking and analytics platform built with Ne
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/coinpulse.git
+git clone https://github.com/AnshDwivedi03/CryptoMonitoring.git
 cd coinpulse
 ```
 
